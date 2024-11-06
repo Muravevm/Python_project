@@ -1,0 +1,3 @@
+from Play import*
+
+main()
