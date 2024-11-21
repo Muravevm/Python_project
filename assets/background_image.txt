@@ -1,0 +1,6 @@
+assets/Forest.png
+assets/Space.jpg
+assets/Hut.jpg
+assets/InHut.jpg
+assets/Village.jpg
+assets/Tavern.jpg
