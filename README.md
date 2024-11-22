@@ -42,11 +42,10 @@
 
 ## Запуск приложения
 
-### Клонируем репозиторий
-git clone repo_link
+```bash
+git clone https://github.com/Muravevm/Python_project
 
-### Устанвливаем нужные библиотеки и модули
 pip install -r requirements.txt
 
-### запускаем
 python3 main.py
+```
